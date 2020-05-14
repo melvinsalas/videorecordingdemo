@@ -17,8 +17,4 @@ $ flutter run
 
 Demostración presentada por [@melvinsalas](https://twitter.com/melvinsalas) para [GDG Managua](https://www.meetup.com/gdgmanagua/) disponible en [youtube](https://youtu.be/D0GbGVjWYAY).
 
-![alt text](https://imgur.com/NrR9nOf.jpg)
-
-## Screenshots
-
-![alt text](https://i.imgur.com/48lrZgg.gif)
+![](https://imgur.com/NrR9nOf.jpg)
